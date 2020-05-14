@@ -446,6 +446,7 @@ function utc2beijing(utc_datetime) {
     second.substring(second.length - 2, second.length)
   );
 }
+<a href="/"><img class="avatar" src="https://n.sinaimg.cn/sinacn10101/684/w1440h844/20200129/96b3-intiarn9227517.jpg"/></a>
 
 // bytes自适应转换到KB,MB,GB
 function formatFileSize(bytes) {
