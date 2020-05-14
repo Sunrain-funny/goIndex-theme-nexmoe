@@ -39,7 +39,7 @@ function init() {
   var html = `
 <header class="nexmoe-nav">
   <div class="navSize">
-			<a href="/"><img class="avatar" src="https://i.loli.net/2020/04/24/wCxMZFtiv6aKmQ1.png"/></a>
+			<a href="/"><img class="avatar" src="http://www.520touxiang.com/uploads/allimg/2017121808/n2n5etbh5i1.jpg"/></a>
 			<div class="nav_menu">
 				<ul class="menu_ul">
 					<li class="menu_li"><a href="https://drive.google.com/" target="_blank">登陆</a></li>
